@@ -6,3 +6,6 @@ The game is a digital adaptation of the Jenga Tower game. It uses the NVidia Phy
 Additionally, DirectX is used to visualise the 3D environment and play sounds.
 
 A simple AI player has been implemented, enabling either 2Player Hotseat or Single Against AI playstyles.
+
+Showcase: [Youtube](https://youtu.be/PT69sJDZ1Lg "Jenga Game Showcase")
+
